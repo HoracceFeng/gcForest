@@ -1,0 +1,4 @@
+[ 2018-01-10 11:08:49,422][cascade_classifier.fit_transform] X_groups_train.shape=[(9851, 46)],y_train.shape=(9851,),X_groups_test.shape=no_test,y_test.shape=no_test
+[ 2018-01-10 11:08:49,423][cascade_classifier.fit_transform] group_dims=[46]
+[ 2018-01-10 11:08:49,423][cascade_classifier.fit_transform] X_train.shape=(9851, 46),X_test.shape=(0, 46)
+[ 2018-01-10 11:08:49,425][cascade_classifier.fit_transform] [layer=0] look_indexs=[0], X_cur_train.shape=(9851, 46), X_cur_test.shape=(0, 46)

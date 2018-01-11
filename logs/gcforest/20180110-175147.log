@@ -1,0 +1,6 @@
+[ 2018-01-10 17:51:47,597][fgnet.fit_transform] X_train.shape=(60000, 1, 28, 28), y_train.shape=(60000,), X_test.shape=None, y_test.shape=None
+[ 2018-01-10 17:51:47,597][fg_win_layer.fit_transform] [data][win1/7x7], bottoms=[u'X', u'y'], tops=[u'win1/7x7/ets', u'win1/7x7/rf']
+[ 2018-01-10 17:51:47,598][fg_win_layer.fit_transform] [progress][win1/7x7] ti=0/2, top_name=win1/7x7/ets
+[ 2018-01-10 17:51:47,598][fg_win_layer.fit_transform] [data][win1/7x7,train] bottoms.shape=60000x1x28x28,60000
+[ 2018-01-10 17:51:47,604][win_utils.get_windows] get_windows_start: X.shape=(60000, 1, 28, 28), X_win.shape=(49, 7260000), nw=11, nh=11, c=1, win_x=7, win_y=7, stride_x=2, stride_y=2
+[ 2018-01-10 17:51:47,908][win_utils.get_windows] get_windows_end
